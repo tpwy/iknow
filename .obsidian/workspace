@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d32289afad5c779d",
+        "id": "44940282c3bebeaa",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "使用Nuitka打包pyside6编写的GUI.md",
+            "file": "做个GUI小工具记录.md",
             "mode": "source",
             "source": false
           }
@@ -70,13 +70,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用Nuitka打包pyside6编写的GUI.md",
+                "file": "做个GUI小工具记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -87,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用Nuitka打包pyside6编写的GUI.md",
+                "file": "做个GUI小工具记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用Nuitka打包pyside6编写的GUI.md"
+                "file": "做个GUI小工具记录.md"
               }
             }
           },
@@ -110,16 +110,33 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "e526e6a70f27bad3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "2338759a702e8292",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "d32289afad5c779d",
+  "active": "44940282c3bebeaa",
   "lastOpenFiles": [
+    "做个GUI小工具记录.md",
     "使用Nuitka打包pyside6编写的GUI.md"
   ]
 }
