@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "f0cbee9687a15d48",
+    "type": "split",
+    "children": [
+      {
+        "id": "d32289afad5c779d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "使用Nuitka打包pyside6编写的GUI.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "67022e89d8ce8fb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "57cf4ec46f345ff2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "723a310951f6735f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "78729c115360c579",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3409b0364b73c6ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "33d5727ca0d39847",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0585121ef2a7f81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "使用Nuitka打包pyside6编写的GUI.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "782ad2dea4cb31b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "使用Nuitka打包pyside6编写的GUI.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "08b16c4ec3bfb2af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "使用Nuitka打包pyside6编写的GUI.md"
+              }
+            }
+          },
+          {
+            "id": "a011f3682457cac8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d32289afad5c779d",
+  "lastOpenFiles": [
+    "使用Nuitka打包pyside6编写的GUI.md"
+  ]
+}
